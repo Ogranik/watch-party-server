@@ -1,4 +1,4 @@
-const socket = io("https://twoj-server.onrender.com"); // <- tu Twój backend
+const socket = io("https://watch-party-server-jiqi.onrender.com"); // <- tu Twój backend
 
 const fileInput = document.getElementById("fileInput");
 const video = document.getElementById("videoPlayer");
